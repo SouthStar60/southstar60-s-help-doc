@@ -7,4 +7,4 @@
 - [目录](catalog.md)
 > 链接到目录文件。
 - [Minecraft-mod-translator](https://github.com/SouthStar60/minecraft-mod-translator)
-> 一个翻译我的世界Java版的Python脚本（本人的其他仓库）
+> 一个翻译我的世界Java版的Python程序（本人的其他仓库）
